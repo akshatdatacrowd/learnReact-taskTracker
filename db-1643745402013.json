@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Strategize a Marketing Plan",
+      "day": "Jan 30",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Make a Mock Website",
+      "day": "Jan 30",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Get Groceries",
+      "day": "Jan 29",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
